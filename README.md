@@ -18,3 +18,19 @@ This is my first GitHub project! A Bash script to automate user and group manage
 
 ```bash
 chmod +x main.sh
+Run the script:
+
+sudo ./main.sh
+
+
+The script will check if users and group already exist to avoid errors.
+
+Notes
+
+Designed to help beginners practice Linux user and group management.
+
+Can be extended for more advanced automation tasks.
+
+Author
+
+[Yurii] – Learning Linux automation and GitHub workflow
